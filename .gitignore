@@ -1,0 +1,17 @@
+# Compiled binaries & bytecodes
+*.class
+*.exe
+*.o
+*.obj
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
